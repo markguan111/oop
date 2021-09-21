@@ -11,6 +11,6 @@ def main():
     print('Here is the data that you entered:')
     print('manufacturer:', phone.get_manufact())
     print('model Number:',phone.get_model())
-    print('Retail Price: $', phone.get_retail_price(), ',.2f', sep = '')
+    print('Retail Price: $', phone.get_retail_price(), '.2f', sep = '')
 
 main()

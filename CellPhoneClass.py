@@ -13,7 +13,7 @@ class Phone:
     def set_model(self, model):
         self.__model = model
 
-    def set_retail_price(slef, price):
+    def set_retail_price(self, price):
         self.__retail_price = price
 
     def get_manufact(self):
